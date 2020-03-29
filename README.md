@@ -1,4 +1,4 @@
-**Snap Game Simulation 
+##Snap Game Simulation 
 
 
 This game simultation has two users that pick cards from a randomly shuffled deck. 
