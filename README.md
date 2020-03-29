@@ -1,5 +1,5 @@
-##Snap Game Simulation 
-
+Snap Game Simulation
+--------------------
 
 This game simultation has two users that pick cards from a randomly shuffled deck. 
 A random time delay is used before each turn of the card to simulate think time.
