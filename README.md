@@ -32,3 +32,6 @@ Alternatively the app can be run using the following from the \Snap directory:-
 To view the unit tests execute the following from \Snap directory:-
 
 	dotnet test Snap_UnitTests --verbosity:n
+	
+![image](https://user-images.githubusercontent.com/28151071/77848872-b9e97b00-71bf-11ea-8c22-8b16b7bc70a6.png)
+	
